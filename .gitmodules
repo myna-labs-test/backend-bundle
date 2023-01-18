@@ -1,12 +1,12 @@
 [submodule "client"]
 	path = client
 	url = git@github.com:myna-labs-test/backend-api-client.git
+    branch = main
 [submodule "bot"]
 	path = bot
 	url = git@github.com:myna-labs-test/backend-bot.git
+    branch = main
 [submodule "characters"]
 	path = characters
 	url = git@github.com:myna-labs-test/backend-api-characters.git
-[submodule "migrations"]
-	path = migrations
-	url = git@github.com:myna-labs-test/backend-migrations.git
+    branch = main
