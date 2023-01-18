@@ -8,7 +8,7 @@ git clone –recurse-submodules  https://github.com/myna-labs-test/backend-bundl
 ```
 
 ## Мигрирование бд
-Необходимо перейти в `migrations` и следовать [инструкциям](migrations/README.md)
+Необходимо перейти в `client/migrations` и следовать [инструкциям](client/migration/README.md)
 ## Запуск Client API
 Необходимо перейти в `client` и следовать [инструкциям](client/README.md)
 ## Запуск Character API
